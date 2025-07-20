@@ -18,7 +18,7 @@ DigiDoctor is a medical chatbot powered by **Retrieval-Augmented Generation (RAG
 ## Installation and Setup
 
 ### 1. Clone this repository:
-git clone https://git.digimantra.com/SHREY/DigiDoctor.git <br />
+git clone https://github.com/SHREY247/MedChat.git <br />
 cd DigiDoctor
 
 
